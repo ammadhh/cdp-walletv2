@@ -65,14 +65,7 @@ BlockDate is a decentralized dating application built on the Base Sepolia blockc
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🛠️ Smart Contract Integration
 
-The application integrates with a deployed smart contract on Base Sepolia that handles profile creation, profile retrieval, and "liking" functionality.
-
-### Contract Address
-```
-0x1b14db9335e9f6ef02877e685472aaa459b544db
-```
 
 ### Key Contract Functions
 
