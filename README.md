@@ -11,6 +11,8 @@ BlockDate is a decentralized dating application built on the Base Sepolia blockc
 
 ![BlockDate App Screenshot 1](./sbf.png)
 ![BlockDate App Screenshot 2](./messages.png)
+![BlockDate App Screenshot 3](./profileex.png)
+![BlockDate App Screenshot 4](./history.png)
 
 
 ## 📋 Features
